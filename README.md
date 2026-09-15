@@ -17,5 +17,5 @@ A professional website showcasing the services and products of Model and Son Blo
 
 ## Installation
 
-Simply open `index.html` in any modern web browser to view the website.
+Simply open `index.html` in any modern web browser to view the website or GitHub.
 
